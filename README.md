@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tsuev
 - 👀 I’m interested in web application development.
-- 🌱 I’m currently learning Vue.js, Svelte.js
+- 🦾 My personal web-site https://tsuev.github.io/myresume/
 - 📫 How to reach me: email - tsuevjudoka@gmail.com, telegram - @Qarimansur
