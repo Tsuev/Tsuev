@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Tsuev
-- 👀 I’m interested in web application development.
-- 🦾 My personal web-site https://tsuev.github.io/myresume/
+- 👀 I’m interested in web application development
 - 📫 How to reach me: email - tsuevjudoka@gmail.com, telegram - @Qarimansur
