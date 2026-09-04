@@ -1,3 +1,179 @@
-- 👋 Hi, I’m @Tsuev
-- 👀 I’m interested in web application development
-- 📫 How to reach me: email - tsuevjudoka@gmail.com, telegram - @Qarimansur
+<div align="center">
+
+# Hi there 👋 I'm Mansur Tsuev
+
+### Senior Frontend Developer • Vue.js • TypeScript • Nuxt.js
+
+Building scalable frontend applications, reusable UI systems and high-load web services.
+
+[Telegram](https://t.me/qarimansur) • [Email](mailto:tsuevjudoka4@gmail.com)
+
+</div>
+
+---
+
+## About me
+
+Frontend developer with **5+ years of commercial experience** specializing in Vue.js ecosystem.
+
+I build scalable web applications, develop reusable component libraries, optimize performance, and design maintainable frontend architectures.
+
+Main expertise:
+
+- Vue 2 / Vue 3
+- Nuxt
+- TypeScript
+- Architecture & Refactoring
+- UI Kit Development
+- High Load Applications
+- Real-time Applications
+- Performance Optimization
+- Code Review & Mentoring
+
+---
+
+## Tech Stack
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge)
+![Vuex](https://img.shields.io/badge/Vuex-42b883?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
+
+### UI
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
+
+### Backend / DevOps
+
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+
+---
+
+## What I do
+
+- Develop complex SPA applications
+- Build reusable UI Kits
+- Design scalable frontend architecture
+- Optimize Core Web Vitals
+- Implement SSR & PWA
+- Build real-time applications using WebSockets
+- Integrate payment systems
+- Develop internal frameworks
+- Review code & mentor developers
+
+---
+
+## Commercial Experience
+
+### Bitrix24
+
+- Experimental frontend features
+- Native JavaScript
+- Vue.js
+- React
+- Architecture
+- Performance optimization
+
+### Wazzup CRM
+
+- Real-time chat
+- WebSockets
+- UI Kit
+- Payments
+- Playwright
+- TypeScript migration
+- CI/CD
+
+### Stroyportal
+
+- Legacy modernization
+- Vue + Django
+- Performance optimization
+- Component architecture
+
+### I-ONE
+
+- E-commerce
+- PWA
+- Nuxt
+- Maps
+- Team Lead
+- Web3
+
+---
+
+## Favorite Technologies
+
+```ts
+const stack = {
+    frontend: [
+        "Vue",
+        "Nuxt",
+        "TypeScript",
+        "JavaScript"
+    ],
+    state: [
+        "Pinia",
+        "Vuex"
+    ],
+    build: [
+        "Vite",
+        "Webpack"
+    ],
+    testing: [
+        "Playwright",
+        "Jest",
+        "Cypress"
+    ],
+    architecture: [
+        "FSD",
+        "SOLID",
+        "OOP"
+    ]
+}
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Current Interests
+
+- Frontend Architecture
+- Vue Ecosystem
+- Performance Engineering
+- Design Systems
+- Open Source
+- High Load Applications
+- Developer Experience
+
+---
+
+> Clean architecture. High performance. Maintainable code.
