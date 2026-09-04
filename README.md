@@ -6,7 +6,7 @@
 
 Building scalable frontend applications, reusable UI systems and high-load web services.
 
-[Telegram](https://t.me/qarimansur) • [Email](mailto:tsuevjudoka4@gmail.com)
+[Telegram](https://t.me/qarimansur) • [Email](mailto:tsuevjudoka@gmail.com) • [Instagram](https://www.instagram.com/tsuev.it/) • [Blog](https://t.me/aboutfrontend)
 
 </div>
 
@@ -38,10 +38,14 @@ Main expertise:
 
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge)
 ![Vuex](https://img.shields.io/badge/Vuex-42b883?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
 
@@ -55,6 +59,9 @@ Main expertise:
 ### Backend / DevOps
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -126,12 +133,25 @@ const stack = {
     frontend: [
         "Vue",
         "Nuxt",
+        "React",
+        "Next.js",
         "TypeScript",
         "JavaScript"
+    ],
+    ui: [
+        "PrimeVue",
+        "Tailwind CSS",
+        "Storybook"
     ],
     state: [
         "Pinia",
         "Vuex"
+    ],
+    backend: [
+        "Node.js",
+        "NestJS",
+        "Supabase",
+        "PostgreSQL"
     ],
     build: [
         "Vite",
@@ -156,9 +176,9 @@ const stack = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tsuev&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuev&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </p>
 
