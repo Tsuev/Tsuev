@@ -172,18 +172,6 @@ const stack = {
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tsuev&show_icons=true&hide_border=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuev&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</p>
-
----
-
 ## Current Interests
 
 - Frontend Architecture
