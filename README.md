@@ -12,6 +12,12 @@ Building scalable frontend applications, reusable UI systems and high-load web s
 
 ---
 
+## GitHub Stats
+
+![GitHubCard](https://githubcard.com/Tsuev.svg?d=wnbsCatWXo0W)
+
+---
+
 ## About me
 
 Frontend developer with **5+ years of commercial experience** specializing in Vue.js ecosystem.
